@@ -1,0 +1,17 @@
+[
+  {
+    "id": "fe8f8bc0-ea49-48b8-b555-f1b585e0ada7",
+    "title": "Hackathon",
+    "venueIds": [
+      "1777554495925"
+    ],
+    "date": "2026-04-30",
+    "time": "19:20",
+    "duration": "2",
+    "description": "Hackathon",
+    "image": "/uploads/event_0651e497-9338-4849-9212-2c5f5e5fc5ac.png",
+    "organizerId": "5ce6f46c-5639-4bf8-8ae4-5c2995a22e15",
+    "eventType": "team",
+    "teamSize": 4
+  }
+]

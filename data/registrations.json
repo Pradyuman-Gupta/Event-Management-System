@@ -1,0 +1,34 @@
+[
+  {
+    "id": "89f0c4d0-14a3-4992-96b7-e938ed0dcfad",
+    "eventId": "fe8f8bc0-ea49-48b8-b555-f1b585e0ada7",
+    "userName": "std1",
+    "userEmail": "std1@gmail.com",
+    "seatId": "Lecture Hall 2-A1",
+    "timestamp": "2026-04-30T13:47:09.837Z"
+  },
+  {
+    "id": "474418ba-eb1a-4e2d-8546-db267f71ce93",
+    "eventId": "fe8f8bc0-ea49-48b8-b555-f1b585e0ada7",
+    "userName": "std1",
+    "userEmail": "std1@gmail.com",
+    "seatId": "Lecture Hall 2-A2",
+    "timestamp": "2026-04-30T13:47:09.837Z"
+  },
+  {
+    "id": "e4718060-f55d-42b8-b901-616f5e5324a1",
+    "eventId": "fe8f8bc0-ea49-48b8-b555-f1b585e0ada7",
+    "userName": "std1",
+    "userEmail": "std1@gmail.com",
+    "seatId": "Lecture Hall 2-A3",
+    "timestamp": "2026-04-30T13:47:09.839Z"
+  },
+  {
+    "id": "a5f0d0b3-3001-4762-899c-5996c5f9cdeb",
+    "eventId": "fe8f8bc0-ea49-48b8-b555-f1b585e0ada7",
+    "userName": "std1",
+    "userEmail": "std1@gmail.com",
+    "seatId": "Lecture Hall 2-A4",
+    "timestamp": "2026-04-30T13:47:09.839Z"
+  }
+]

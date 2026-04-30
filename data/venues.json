@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1777554483176",
+    "name": "Lecture Hall 1",
+    "type": "Lecture Hall",
+    "capacity": 50
+  },
+  {
+    "id": "1777554495925",
+    "name": "Lecture Hall 2",
+    "type": "Lecture Hall",
+    "capacity": 100
+  }
+]

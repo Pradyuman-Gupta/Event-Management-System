@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5ce6f46c-5639-4bf8-8ae4-5c2995a22e15",
+    "role": "organizer",
+    "name": "Org1",
+    "email": "org1@gmail.com",
+    "password": "$2b$10$DQzFWqEEixmzRFidxzuI9ObVVBli4fadGOs83gy73tNN1rfBEv0ba",
+    "status": "active"
+  },
+  {
+    "id": "9605c0af-c543-4088-a75e-bf9796b9c8b5",
+    "role": "user",
+    "name": "std1",
+    "email": "std1@gmail.com",
+    "password": "$2b$10$QEhTDYK.8N3lIGqRoNXyxelxM6F58ov/G2onikfTIB/L/QQaTs2PG",
+    "status": "active"
+  },
+  {
+    "id": "5d3b0194-50a0-4c42-bf04-0fe887a1eda3",
+    "role": "user",
+    "name": "std2",
+    "email": "std2@gmail.com",
+    "password": "$2b$10$JXAlY0oJM35nllMo7gh2IuncQHwIpWgYLQ4Ni8X333gTkj38gptZ6",
+    "status": "active"
+  }
+]
