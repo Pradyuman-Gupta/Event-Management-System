@@ -1,3 +1,21 @@
+// --- Global Loader ---
+window.addEventListener('load', () => {
+    setTimeout(() => {
+        const loader = document.getElementById('global-loader');
+        if (loader) loader.classList.add('hidden');
+    }, 400); // 400ms delay to ensure smooth transition
+});
+
+window.showLoader = () => {
+    const loader = document.getElementById('global-loader');
+    if (loader) loader.classList.remove('hidden');
+};
+
+window.hideLoader = () => {
+    const loader = document.getElementById('global-loader');
+    if (loader) loader.classList.add('hidden');
+};
+
 document.addEventListener('DOMContentLoaded', () => {
     // --- AUTH PORTAL LOGIC ---
     const loginPortal = document.getElementById('login-portal');

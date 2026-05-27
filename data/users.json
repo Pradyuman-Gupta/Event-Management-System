@@ -22,5 +22,21 @@
     "email": "std2@gmail.com",
     "password": "$2b$10$JXAlY0oJM35nllMo7gh2IuncQHwIpWgYLQ4Ni8X333gTkj38gptZ6",
     "status": "active"
+  },
+  {
+    "id": "947f97b8-97bf-49bc-995e-e84ea2d4aaad",
+    "role": "organizer",
+    "name": "Ogr2",
+    "email": "org2@gmail.com",
+    "password": "$2b$10$aAh5HqrH.ql1NEF1Hm/MzOCJS6jZFugnotp82nJnRJ1.tSYQVowSy",
+    "status": "active"
+  },
+  {
+    "id": "a9271438-b4da-4501-9671-da46101a5a1a",
+    "role": "user",
+    "name": "student5",
+    "email": "std001@lnmiit.ac.in",
+    "password": "$2b$10$a0dEcaGXbYmHq8EeX1fVYetjqXM4GMMZuli54U6lYXVigQyaIE28O",
+    "status": "active"
   }
 ]

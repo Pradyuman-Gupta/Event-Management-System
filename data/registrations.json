@@ -30,5 +30,61 @@
     "userEmail": "std1@gmail.com",
     "seatId": "Lecture Hall 2-A4",
     "timestamp": "2026-04-30T13:47:09.839Z"
+  },
+  {
+    "id": "9e0164d4-4f6d-4c64-9b5f-f50f3f0c6e7f",
+    "eventId": "9881aa5a-49ec-49ee-9629-09885eb1a01e",
+    "userName": "std2",
+    "userEmail": "std2@gmail.com",
+    "seatId": "Lecture Hall 2-A1",
+    "timestamp": "2026-05-04T09:04:43.717Z"
+  },
+  {
+    "id": "0b0ec766-af8f-44f7-b68d-b2cf48188441",
+    "eventId": "9881aa5a-49ec-49ee-9629-09885eb1a01e",
+    "userName": "std3",
+    "userEmail": "std2@gmail.com",
+    "seatId": "Lecture Hall 2-A2",
+    "timestamp": "2026-05-04T09:04:43.717Z"
+  },
+  {
+    "id": "56f25a3c-4f48-4a7b-a59c-b0158702edfb",
+    "eventId": "6ce61a25-82f8-4c09-857e-4848da301e99",
+    "userName": "std2",
+    "userEmail": "std2@gmail.com",
+    "seatId": "Computer Lab 1-A5",
+    "timestamp": "2026-05-04T09:04:48.995Z"
+  },
+  {
+    "id": "2b0c430b-1a34-4ec1-8c6a-84285004870e",
+    "eventId": "9881aa5a-49ec-49ee-9629-09885eb1a01e",
+    "userName": "std1",
+    "userEmail": "std1@gmail.com",
+    "seatId": "Lecture Hall 2-A3",
+    "timestamp": "2026-05-04T09:07:30.418Z"
+  },
+  {
+    "id": "84628e1c-d793-4146-a8e6-5beec53ac679",
+    "eventId": "9881aa5a-49ec-49ee-9629-09885eb1a01e",
+    "userName": "std4",
+    "userEmail": "std1@gmail.com",
+    "seatId": "Lecture Hall 2-A4",
+    "timestamp": "2026-05-04T09:07:30.418Z"
+  },
+  {
+    "id": "1944a721-54d1-4c9c-9a98-7e23e60e6aa3",
+    "eventId": "9881aa5a-49ec-49ee-9629-09885eb1a01e",
+    "userName": "student5",
+    "userEmail": "std001@lnmiit.ac.in",
+    "seatId": "Lecture Hall 2-A5",
+    "timestamp": "2026-05-06T03:33:29.409Z"
+  },
+  {
+    "id": "27b45e60-8d4e-45cc-bf8b-6084eda5df9e",
+    "eventId": "9881aa5a-49ec-49ee-9629-09885eb1a01e",
+    "userName": "student6",
+    "userEmail": "std001@lnmiit.ac.in",
+    "seatId": "Lecture Hall 2-A6",
+    "timestamp": "2026-05-06T03:33:29.409Z"
   }
 ]

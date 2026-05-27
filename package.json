@@ -2,6 +2,17 @@
   "name": "event-venue-booking",
   "version": "1.0.0",
   "description": "Event Venue Booking System",
+  "homepage": "https://github.com/Pradyuman-Gupta/Event-Management-System#readme",
+  "bugs": {
+    "url": "https://github.com/Pradyuman-Gupta/Event-Management-System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pradyuman-Gupta/Event-Management-System.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

@@ -23,7 +23,7 @@ const verifyToken = (req, res, next) => {
         req.user = jwt.verify(token, JWT_SECRET);
         next();
     } catch (e) {
-        return res.status(401).json({ error: 'Unauthorized' });
+        return res.status(200).json({ error: 'Unauthorized' });
     }
 };
 

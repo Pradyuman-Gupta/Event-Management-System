@@ -10,5 +10,11 @@
     "name": "Lecture Hall 2",
     "type": "Lecture Hall",
     "capacity": 100
+  },
+  {
+    "id": "1777885211057",
+    "name": "Computer Lab 1",
+    "type": "Lab",
+    "capacity": 60
   }
 ]

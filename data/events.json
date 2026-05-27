@@ -13,5 +13,50 @@
     "organizerId": "5ce6f46c-5639-4bf8-8ae4-5c2995a22e15",
     "eventType": "team",
     "teamSize": 4
+  },
+  {
+    "id": "6ce61a25-82f8-4c09-857e-4848da301e99",
+    "title": "Quiz 2",
+    "venueIds": [
+      "1777885211057"
+    ],
+    "date": "2026-05-05",
+    "time": "13:00",
+    "duration": "1",
+    "description": "Quiz 2 of 10 marks",
+    "image": null,
+    "organizerId": "947f97b8-97bf-49bc-995e-e84ea2d4aaad",
+    "eventType": "individual",
+    "teamSize": null
+  },
+  {
+    "id": "9881aa5a-49ec-49ee-9629-09885eb1a01e",
+    "title": "Idea Hackathon",
+    "venueIds": [
+      "1777554495925"
+    ],
+    "date": "2026-05-08",
+    "time": "13:00",
+    "duration": "4",
+    "description": "3 Hour long Idea Hackathon",
+    "image": "/uploads/event_9d49265c-2852-4fec-ba3e-b70c840eaaa9.png",
+    "organizerId": "5ce6f46c-5639-4bf8-8ae4-5c2995a22e15",
+    "eventType": "team",
+    "teamSize": 2
+  },
+  {
+    "id": "154fe285-ed62-4051-a6ea-f1b2dfd65022",
+    "title": "Quiz",
+    "venueIds": [
+      "1777885211057"
+    ],
+    "date": "2026-05-07",
+    "time": "12:00",
+    "duration": "1",
+    "description": "Quiz of 5 maqrks",
+    "image": null,
+    "organizerId": "5ce6f46c-5639-4bf8-8ae4-5c2995a22e15",
+    "eventType": "team",
+    "teamSize": 2
   }
 ]
